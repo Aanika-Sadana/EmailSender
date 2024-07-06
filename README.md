@@ -38,7 +38,7 @@ Your script is now set up in VS Code. Refer to steps 8-10 for every email batch 
   <img width="500" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/dde46754-a699-481f-bbe9-a851cfbadbb7">
   <img width="350" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/95ce8922-fdfd-41ac-b295-aa9d69912f88">
 
-10. Hit **_Run Python File_** on the top right to run the script and automatically send all emails listed in the batch.
+10. Save the file and hit **_Run Python File_** on the top right to run the script and automatically send all emails listed in the batch.
     
   <img width="300" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/420a80c1-bc8b-4707-8884-32c3d0514768">
 
