@@ -36,11 +36,11 @@ Your script is now set up in VS Code. Refer to steps 8-10 for every email batch 
   <img width="450" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/c4c4a998-bf3b-4b3f-ad8e-90757b7b8e6d">
   <img width="350" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/9fe68004-8f76-4652-93d1-75fd95e7d962">
 
-9. Open the script called "email_sender.py" and replace the file name with the name of the newly uploaded .CSV file
-  <img width="500" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/dde46754-a699-481f-bbe9-a851cfbadbb7">
-  <img width="350" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/95ce8922-fdfd-41ac-b295-aa9d69912f88">
+9. Open the script called "email_sender.py". Replace the **file name** with the name of the newly uploaded .CSV file
+  <img width="500" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/cd5ddff9-fbb0-4b75-9ffd-dbb3c9067906">
+  <img width="400" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/ef6bfc55-cfd2-49e6-bc43-7a07b70c888b">
 
-10. Save the file and hit **_Run Python File_** on the top right to run the script and automatically send all emails listed in the batch.
+10. **SAVE** the file and hit **_Run Python File_** on the top right to run the script and automatically send all emails listed in the batch.
     
   <img width="300" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/420a80c1-bc8b-4707-8884-32c3d0514768">
 
