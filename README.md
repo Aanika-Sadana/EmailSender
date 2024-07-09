@@ -14,6 +14,8 @@ Instructions:
 5. Enter this repository URL in the text box at the top: https://github.com/Aanika-Sadana/EmailSender.git
   <img width="500" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/ad2464f4-115a-4eb7-8193-b6b0c3f6084b">
 
+  If it prompts you to sign into a GitHub account, either create an account or sign into an existing one, and authorize it with GitHub.
+
 6. Select a folder to save the repository in and click **_Select as Repository Destination_**.
   <img width="380" alt="image" src="https://github.com/Aanika-Sadana/EmailSender/assets/70586980/473ee245-26bc-412d-a544-42adc2567b6d">
 
