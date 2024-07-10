@@ -39,10 +39,7 @@ for record in email_list:
     # to CC/BCC multiple emails, separate email addresses with semicolon (;)
     # for example, 'email1@example.com;email2@example.com'
 
-    newmail.CC = ''
-    if(not ccd):
-        newmail.CC = 'aparot@greenhillsventures.com;asadana@greenhillsventures.com;ptan@greenhillsventures.com'
-        ccd = not ccd
+    newmail.CC = 'aparot@greenhillsventures.com;asadana@greenhillsventures.com;ptan@greenhillsventures.com'
     newmail.BCC = ''
 
     subject = "Introduction Call - " + record[1].upper() + " ACTION NEEDED"
