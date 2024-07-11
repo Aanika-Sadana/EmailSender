@@ -29,7 +29,6 @@ print('> Now sending [', len(email_list), "] emails:")
 print(email_list, "\n")
 
 # generate emails
-ccd = False
 for record in email_list:
     ol = win32com.client.Dispatch('Outlook.Application')
     olmailitem = 0x0
