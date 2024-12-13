@@ -7,7 +7,7 @@ import pandas as pd
 # py -m pip install openpyxl
 # py -m pip install xlrd
 
-intro_calls_file = pd.read_excel(f"{os.path.dirname(os.path.abspath(__file__))}/../Intro Calls.xlsx")
+intro_calls_file = pd.read_excel("C:\\Users\\negzn\\Documents\\Intro Calls.xlsx") # f"{os.path.dirname(os.path.abspath(__file__))}/../Intro Calls.xlsx"
 companies = [company for company in intro_calls_file["Company Name"]]
 if(not os.path.exists(f"{os.path.dirname(os.path.abspath(__file__))}/../DUPLICATES.csv")):
     with open(f"{os.path.dirname(os.path.abspath(__file__))}/../DUPLICATES.csv", "a+", newline="") as dup_file:
